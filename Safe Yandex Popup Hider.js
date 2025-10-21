@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Safe Yandex Popup Hider (no scroll fix)
+// @name         Yandex Popup Hider (no scroll fix)
 // @namespace    https://github.com/Baddibay/YandexPopupBlocker
 // @version      1.4
 // @description  Безопасно скрывает окно «Сделать Яндекс основным поиском», не ломая прокрутку
