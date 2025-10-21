@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Yandex Popup Hider (no scroll fix)
-// @namespace    https://github.com/Baddibay/YandexPopupBlocker
+// @name         Safe Yandex Popup Hider (no scroll fix)
+// @namespace    https://github.com/Baddibay/Yandex-Popup-Blocker
 // @version      1.4
 // @description  Безопасно скрывает окно «Сделать Яндекс основным поиском», не ломая прокрутку
 // @author       Baddibay
 // @license      MIT
-// @homepageURL  https://github.com/Baddibay/YandexPopupBlocker
-// @supportURL   https://github.com/Baddibay/YandexPopupBlocker/issues
-// @updateURL    https://github.com/Baddibay/YandexPopupBlocker/raw/main/tampermonkey.js
-// @downloadURL  https://github.com/Baddibay/YandexPopupBlocker/raw/main/tampermonkey.js
+// @homepageURL  https://github.com/Baddibay/Yandex-Popup-Blocker
+// @supportURL   https://github.com/Baddibay/Yandex-Popup-Blocker/issues
+// @updateURL    https://raw.githubusercontent.com/Baddibay/Yandex-Popup-Blocker/main/Safe%20Yandex%20Popup%20Hider.js
+// @downloadURL  https://raw.githubusercontent.com/Baddibay/Yandex-Popup-Blocker/main/Safe%20Yandex%20Popup%20Hider.js
 // @match        *://*.yandex.ru/*
 // @run-at       document-end
 // @grant        none
