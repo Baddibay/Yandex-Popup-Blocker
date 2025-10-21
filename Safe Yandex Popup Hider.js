@@ -7,8 +7,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/Baddibay/Yandex-Popup-Blocker
 // @supportURL   https://github.com/Baddibay/Yandex-Popup-Blocker/issues
-// @updateURL    https://github.com/Baddibay/Yandex-Popup-Blocker/blob/main/Safe%20Yandex%20Popup%20Hider.js
-// @downloadURL  https://github.com/Baddibay/Yandex-Popup-Blocker/blob/main/Safe%20Yandex%20Popup%20Hider.js
+// @updateURL    https://raw.githubusercontent.com/Baddibay/Yandex-Popup-Blocker/main/Safe%20Yandex%20Popup%20Hider.js
+// @downloadURL  https://raw.githubusercontent.com/Baddibay/Yandex-Popup-Blocker/main/Safe%20Yandex%20Popup%20Hider.js
 // @match        *://*.yandex.ru/*
 // @run-at       document-end
 // @grant        none
